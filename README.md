@@ -22,7 +22,7 @@ Bank Statement Analyzer is a web-based application that allows users to upload a
  ├── 📂 src
  │    ├── 📂 components
  │    │    ├── Header.jsx  # Sidebar Navigation
- │    │    ├── Nav.jsx  # Top Navigation with User Profile & Theme Toggle
+ │    │    ├── Nav.jsx  # Top Navigation with User Profile 
  │    │    ├── SummarySection.jsx  # Financial Summary
  │    │    ├── PieChartComponent.jsx  # Chart Visualization
  │    │    ├── TransactionTable.jsx  # Transactions Table with File Upload
