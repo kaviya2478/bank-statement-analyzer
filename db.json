@@ -1,0 +1,19 @@
+{
+    "transactions": [
+      {
+        "id": 1,
+        "time": "10:00 AM",
+        "date": "2025-02-07",
+        "description": "Payment Received",
+        "transactionType": "Credit",
+        "balance": "$5,000",
+        "amount": "$1,000"
+      }
+    ],
+    "summary": {
+      "totalIncome": "$3,000",
+      "totalExpenses": "$1,500",
+      "netBalance": "$1,500"
+    }
+  }
+  

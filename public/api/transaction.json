@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+    "time": "10:00 AM",
+    "date": "2025-02-07",
+    "description": "Payment Received",
+    "transactionType": "Credit",
+    "balance": "$5,000",
+    "amount": "$1,000"
+    },
+    {
+      "id": 2,
+      "time": "11:30 AM",
+      "date": "2025-02-07",
+      "description": "Online Purchase",
+      "transactionType": "Debit",
+      "balance": "$4,000",
+      "amount": "$200"
+    },
+    {
+      "id": 3,
+      "time": "01:45 PM",
+      "date": "2025-02-07",
+      "description": "Salary Credite",
+      "transactionType": "Credit",
+      "balance": "$6,000",
+      "amount": "$2,000"
+    },
+    {
+      "id": 4,
+      "time": "03:20 PM",
+      "date": "2025-02-07",
+      "description": "Utility Bill",
+      "transactionType": "Debit",
+      "balance": "$5,500",
+      "amount": "$100"
+    },
+    {
+      "id": 5,
+      "time": "05:00 PM",
+      "date": "2025-02-07",
+      "description": "Restaurant Bill",
+      "transactionType": "Debit",
+      "balance": "$5,400",
+      "amount": "$80"
+    }
+  ]
